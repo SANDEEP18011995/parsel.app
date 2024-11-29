@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/parsel.app%3E/static/css/main.7d60fabc.css",
+    "main.js": "/parsel.app%3E/static/js/main.759f2733.js",
+    "index.html": "/parsel.app%3E/index.html",
+    "main.7d60fabc.css.map": "/parsel.app%3E/static/css/main.7d60fabc.css.map",
+    "main.759f2733.js.map": "/parsel.app%3E/static/js/main.759f2733.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d60fabc.css",
+    "static/js/main.759f2733.js"
+  ]
+}
